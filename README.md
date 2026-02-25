@@ -1,25 +1,46 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=150&section=header&text=Welcome%20to%20my%20Space&fontSize=50" width="100%">
-# Hi there, I'm seabreezed 🌊
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=200&section=header&text=I%20am%20seabreezed&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seabreezed&color=blue&style=flat-square" alt="Profile Views" />
-</p>
-
-### 💫 About Me
-- 🔭 I’m currently chilling and looking for new inspirations.
-- 🌊 Ocean lover & Code enthusiast.
-- 💻 Tech Stack: (Python, Java, HTML, CSS, JS, PHP)
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seabreezed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seabreezed&layout=compact&theme=tokyonight" />
-</p>
+  ### 🌊 Fullstack Developer | Creative Thinker | Ocean Dreamer
+  
+  *“Code like the ocean: deep, powerful, and constantly moving.”*
+  
+  [![](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/USERNAME_IG)
+  [![](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/USERNAME_LINKEDIN)
+  [![](https://img.shields.io/badge/-Portfolio-2ecc71?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://seabreezed.github.io)
+</div>
 
 ---
 
-### 🛠 Connect with me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](LINK_LINKEDIN_KAMU)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](LINK_INSTAGRAM_KAMU)
+### 🛠️ Current Navigation
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚀 Coding Activities</h4>
+      <ul>
+        <li>🔭 Currently exploring new web horizons</li>
+        <li>🌱 Mastering the art of clean code</li>
+        <li>💬 Ask me about UI/UX or Frontend stuff</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 My Github Stats</h4>
+      <img src="https://github-readme-stats.vercel.app/api?username=seabreezed&show_icons=true&theme=ocean_dark&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💻 Technologies I Move With
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,git,vscode&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/seabreezed/seabreezed/output/github-contribution-grid-snake.svg" alt="snake" width="100%" />
+</div>
