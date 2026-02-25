@@ -8,7 +8,7 @@
 ### 💫 About Me
 - 🔭 I’m currently chilling and looking for new inspirations.
 - 🌊 Ocean lover & Code enthusiast.
-- 💻 Tech Stack: (Isi bahasa pemrograman kamu di sini, misal: HTML, CSS, JS)
+- 💻 Tech Stack: (Python, Java, HTML, CSS, JS, PHP)
 
 ---
 
